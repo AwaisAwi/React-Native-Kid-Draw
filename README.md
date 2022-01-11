@@ -18,4 +18,4 @@ yarn start
 
 * Github: [@AwaisAwi](https://github.com/AwaisAwi/)
 
-**React-Native-Version-0.59.10**
+👋 **React-Native-Version-0.59.10**
