@@ -35,10 +35,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tmstudio.drawingkids"
+      "bundleIdentifier": "com.hybridsol.drawingkids"
     },
     "android": {
-      "package": "com.tmstudio.drawingkids"
+      "package": "com.hybridsol.drawingkids"
     },
     "entryPoint": "node_modules/expo/AppEntry.js"
   },
